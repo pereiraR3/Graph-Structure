@@ -17,7 +17,7 @@ The technologies used to develop the project are very simple.
 ## Contact
 <strong> Project Developer Members: </strong> We are both Computer Science students at the Federal University of Mato Grosso - Class of 2022.
 
-| Anthony Ricardo Rodrigues Rezende | Alan Bruno Moraes Costa |
+| Anthony Ricardo Rodrigues Rezende |
 | --- |
 | <img src="./ImagesMembers/anthony.jpeg" alt="Anthony's Photo" width="100"/> | 
 
