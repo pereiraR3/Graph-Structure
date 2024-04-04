@@ -27,9 +27,5 @@ The technologies used to develop the project are very simple.
 
 ## Acknowledgments
 Useful resources that we would like to give credit for.
-
-- AAAA
-- AAAA
-- AAAA
   
 ##
